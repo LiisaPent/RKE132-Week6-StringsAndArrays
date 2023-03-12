@@ -1,0 +1,15 @@
+C:\Users\pentl\source\repos\Week6-StringAndArrays\Week6-StringAndArrays\bin\Debug\net6.0\Week6-StringAndArrays.exe
+C:\Users\pentl\source\repos\Week6-StringAndArrays\Week6-StringAndArrays\bin\Debug\net6.0\Week6-StringAndArrays.deps.json
+C:\Users\pentl\source\repos\Week6-StringAndArrays\Week6-StringAndArrays\bin\Debug\net6.0\Week6-StringAndArrays.runtimeconfig.json
+C:\Users\pentl\source\repos\Week6-StringAndArrays\Week6-StringAndArrays\bin\Debug\net6.0\Week6-StringAndArrays.dll
+C:\Users\pentl\source\repos\Week6-StringAndArrays\Week6-StringAndArrays\bin\Debug\net6.0\Week6-StringAndArrays.pdb
+C:\Users\pentl\source\repos\Week6-StringAndArrays\Week6-StringAndArrays\obj\Debug\net6.0\Week6-StringAndArrays.csproj.AssemblyReference.cache
+C:\Users\pentl\source\repos\Week6-StringAndArrays\Week6-StringAndArrays\obj\Debug\net6.0\Week6-StringAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pentl\source\repos\Week6-StringAndArrays\Week6-StringAndArrays\obj\Debug\net6.0\Week6-StringAndArrays.AssemblyInfoInputs.cache
+C:\Users\pentl\source\repos\Week6-StringAndArrays\Week6-StringAndArrays\obj\Debug\net6.0\Week6-StringAndArrays.AssemblyInfo.cs
+C:\Users\pentl\source\repos\Week6-StringAndArrays\Week6-StringAndArrays\obj\Debug\net6.0\Week6-StringAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\pentl\source\repos\Week6-StringAndArrays\Week6-StringAndArrays\obj\Debug\net6.0\Week6-StringAndArrays.dll
+C:\Users\pentl\source\repos\Week6-StringAndArrays\Week6-StringAndArrays\obj\Debug\net6.0\refint\Week6-StringAndArrays.dll
+C:\Users\pentl\source\repos\Week6-StringAndArrays\Week6-StringAndArrays\obj\Debug\net6.0\Week6-StringAndArrays.pdb
+C:\Users\pentl\source\repos\Week6-StringAndArrays\Week6-StringAndArrays\obj\Debug\net6.0\Week6-StringAndArrays.genruntimeconfig.cache
+C:\Users\pentl\source\repos\Week6-StringAndArrays\Week6-StringAndArrays\obj\Debug\net6.0\ref\Week6-StringAndArrays.dll
